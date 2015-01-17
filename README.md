@@ -1,6 +1,6 @@
 # Ecard ou  blueCard
 
-[wiki](https://github.com/isvaldo/SemNome/wiki)
+## [wiki](https://github.com/isvaldo/SemNome/wiki)
 
 
 ![friends](http://i.imgur.com/bm4HCSD.png)
