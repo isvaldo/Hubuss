@@ -1,5 +1,4 @@
-# Ecard ou  blueCard
-
+# Hubuss
 ## [wiki](https://github.com/isvaldo/SemNome/wiki)
 
 
